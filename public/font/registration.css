@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,700,700i&display=swap');
+body{
+  font-family: 'Noto Serif', serif;
+}
+#form{
+  height: 650px;
+  width: 770px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  box-shadow: 0px 0px 10px 0px  silver;
+  background-color: #fff;
+}
+ 
+ #account{
+   float: right;
+
+ }
+  .text{
+    text-align: center;
+    padding-top: 20px;
+  }
+ .form-control{
+   border-radius: 20px;
+
+ }
+ .img{
+   height: 200px;
+   width: 200px;
+   margin-left: 270px;
+   padding-bottom: 0px;
+ }
+.btn{
+  height: 40px;
+  width: 120px;
+}
